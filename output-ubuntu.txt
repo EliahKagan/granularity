@@ -1,0 +1,152 @@
+4 / 100
+[SystemTime { tv_sec: 1742422003, tv_nsec: 987137763 }, SystemTime { tv_sec: 1742422003, tv_nsec: 988137769 }, SystemTime { tv_sec: 1742422003, tv_nsec: 989137774 }, SystemTime { tv_sec: 1742422003, tv_nsec: 990137780 }]
+Experiment took 2.799515ms.
+4 / 100
+[SystemTime { tv_sec: 1742422003, tv_nsec: 991137785 }, SystemTime { tv_sec: 1742422003, tv_nsec: 992137791 }, SystemTime { tv_sec: 1742422003, tv_nsec: 993137796 }, SystemTime { tv_sec: 1742422003, tv_nsec: 994137802 }]
+Experiment took 2.553214ms.
+4 / 100
+[SystemTime { tv_sec: 1742422003, tv_nsec: 995137807 }, SystemTime { tv_sec: 1742422003, tv_nsec: 996137813 }, SystemTime { tv_sec: 1742422003, tv_nsec: 997137818 }, SystemTime { tv_sec: 1742422003, tv_nsec: 998137824 }]
+Experiment took 2.463113ms.
+3 / 100
+[SystemTime { tv_sec: 1742422003, tv_nsec: 999137829 }, SystemTime { tv_sec: 1742422004, tv_nsec: 137835 }, SystemTime { tv_sec: 1742422004, tv_nsec: 1137840 }]
+Experiment took 2.433413ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 3137851 }, SystemTime { tv_sec: 1742422004, tv_nsec: 4137857 }, SystemTime { tv_sec: 1742422004, tv_nsec: 5137862 }]
+Experiment took 2.642314ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 7137873 }, SystemTime { tv_sec: 1742422004, tv_nsec: 8137879 }, SystemTime { tv_sec: 1742422004, tv_nsec: 9137884 }]
+Experiment took 2.431413ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 11137895 }, SystemTime { tv_sec: 1742422004, tv_nsec: 12137901 }, SystemTime { tv_sec: 1742422004, tv_nsec: 13137906 }]
+Experiment took 2.475113ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 15137917 }, SystemTime { tv_sec: 1742422004, tv_nsec: 16137923 }, SystemTime { tv_sec: 1742422004, tv_nsec: 17137928 }]
+Experiment took 2.381413ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 18137934 }, SystemTime { tv_sec: 1742422004, tv_nsec: 19137939 }, SystemTime { tv_sec: 1742422004, tv_nsec: 20137945 }, SystemTime { tv_sec: 1742422004, tv_nsec: 21137950 }]
+Experiment took 2.596914ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 22137956 }, SystemTime { tv_sec: 1742422004, tv_nsec: 23137961 }, SystemTime { tv_sec: 1742422004, tv_nsec: 24137967 }, SystemTime { tv_sec: 1742422004, tv_nsec: 25137972 }]
+Experiment took 2.471514ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 26137978 }, SystemTime { tv_sec: 1742422004, tv_nsec: 27137983 }, SystemTime { tv_sec: 1742422004, tv_nsec: 28137989 }]
+Experiment took 2.504614ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 30138000 }, SystemTime { tv_sec: 1742422004, tv_nsec: 31138005 }, SystemTime { tv_sec: 1742422004, tv_nsec: 32138011 }]
+Experiment took 2.427013ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 34138022 }, SystemTime { tv_sec: 1742422004, tv_nsec: 35138027 }, SystemTime { tv_sec: 1742422004, tv_nsec: 36138033 }]
+Experiment took 2.572915ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 38138044 }, SystemTime { tv_sec: 1742422004, tv_nsec: 39138049 }, SystemTime { tv_sec: 1742422004, tv_nsec: 40138055 }]
+Experiment took 2.694215ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 42138066 }, SystemTime { tv_sec: 1742422004, tv_nsec: 43138071 }, SystemTime { tv_sec: 1742422004, tv_nsec: 44138077 }]
+Experiment took 2.465314ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 45138082 }, SystemTime { tv_sec: 1742422004, tv_nsec: 46138088 }, SystemTime { tv_sec: 1742422004, tv_nsec: 47138093 }, SystemTime { tv_sec: 1742422004, tv_nsec: 48138099 }]
+Experiment took 2.469514ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 49138105 }, SystemTime { tv_sec: 1742422004, tv_nsec: 50138110 }, SystemTime { tv_sec: 1742422004, tv_nsec: 51138116 }, SystemTime { tv_sec: 1742422004, tv_nsec: 52138121 }]
+Experiment took 2.761015ms.
+5 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 54138132 }, SystemTime { tv_sec: 1742422004, tv_nsec: 55138138 }, SystemTime { tv_sec: 1742422004, tv_nsec: 56138143 }, SystemTime { tv_sec: 1742422004, tv_nsec: 57138149 }, SystemTime { tv_sec: 1742422004, tv_nsec: 58138154 }]
+Experiment took 3.947522ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 60138165 }, SystemTime { tv_sec: 1742422004, tv_nsec: 61138171 }, SystemTime { tv_sec: 1742422004, tv_nsec: 62138176 }, SystemTime { tv_sec: 1742422004, tv_nsec: 63138182 }]
+Experiment took 3.089417ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 65138193 }, SystemTime { tv_sec: 1742422004, tv_nsec: 66138198 }, SystemTime { tv_sec: 1742422004, tv_nsec: 67138204 }]
+Experiment took 2.472114ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 68138209 }, SystemTime { tv_sec: 1742422004, tv_nsec: 69138215 }, SystemTime { tv_sec: 1742422004, tv_nsec: 70138220 }, SystemTime { tv_sec: 1742422004, tv_nsec: 71138226 }]
+Experiment took 2.505614ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 72138231 }, SystemTime { tv_sec: 1742422004, tv_nsec: 73138237 }, SystemTime { tv_sec: 1742422004, tv_nsec: 74138242 }]
+Experiment took 2.511514ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 76138253 }, SystemTime { tv_sec: 1742422004, tv_nsec: 77138259 }, SystemTime { tv_sec: 1742422004, tv_nsec: 78138264 }]
+Experiment took 2.401513ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 80138275 }, SystemTime { tv_sec: 1742422004, tv_nsec: 81138281 }, SystemTime { tv_sec: 1742422004, tv_nsec: 82138286 }]
+Experiment took 2.367113ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 84138297 }, SystemTime { tv_sec: 1742422004, tv_nsec: 85138303 }, SystemTime { tv_sec: 1742422004, tv_nsec: 86138308 }]
+Experiment took 2.510814ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 88138319 }, SystemTime { tv_sec: 1742422004, tv_nsec: 89138325 }, SystemTime { tv_sec: 1742422004, tv_nsec: 90138330 }]
+Experiment took 2.345013ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 91138336 }, SystemTime { tv_sec: 1742422004, tv_nsec: 92138341 }, SystemTime { tv_sec: 1742422004, tv_nsec: 93138347 }]
+Experiment took 2.412014ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 95138358 }, SystemTime { tv_sec: 1742422004, tv_nsec: 96138363 }, SystemTime { tv_sec: 1742422004, tv_nsec: 97138369 }]
+Experiment took 2.355113ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 99138380 }, SystemTime { tv_sec: 1742422004, tv_nsec: 100138385 }, SystemTime { tv_sec: 1742422004, tv_nsec: 101138391 }]
+Experiment took 2.386913ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 103138402 }, SystemTime { tv_sec: 1742422004, tv_nsec: 104138407 }, SystemTime { tv_sec: 1742422004, tv_nsec: 105138413 }]
+Experiment took 2.537814ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 106138418 }, SystemTime { tv_sec: 1742422004, tv_nsec: 107138424 }, SystemTime { tv_sec: 1742422004, tv_nsec: 108138429 }, SystemTime { tv_sec: 1742422004, tv_nsec: 109138435 }]
+Experiment took 2.452414ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 110138440 }, SystemTime { tv_sec: 1742422004, tv_nsec: 111138446 }, SystemTime { tv_sec: 1742422004, tv_nsec: 112138451 }]
+Experiment took 2.455313ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 114138462 }, SystemTime { tv_sec: 1742422004, tv_nsec: 115138468 }, SystemTime { tv_sec: 1742422004, tv_nsec: 116138473 }]
+Experiment took 2.602715ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 118138484 }, SystemTime { tv_sec: 1742422004, tv_nsec: 119138490 }, SystemTime { tv_sec: 1742422004, tv_nsec: 120138495 }]
+Experiment took 2.420813ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 121138501 }, SystemTime { tv_sec: 1742422004, tv_nsec: 122138506 }, SystemTime { tv_sec: 1742422004, tv_nsec: 123138512 }, SystemTime { tv_sec: 1742422004, tv_nsec: 124138517 }]
+Experiment took 2.449114ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 125138523 }, SystemTime { tv_sec: 1742422004, tv_nsec: 126138528 }, SystemTime { tv_sec: 1742422004, tv_nsec: 127138534 }]
+Experiment took 2.488114ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 129138545 }, SystemTime { tv_sec: 1742422004, tv_nsec: 130138550 }, SystemTime { tv_sec: 1742422004, tv_nsec: 131138556 }, SystemTime { tv_sec: 1742422004, tv_nsec: 132138561 }]
+Experiment took 3.056316ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 133138567 }, SystemTime { tv_sec: 1742422004, tv_nsec: 134138572 }, SystemTime { tv_sec: 1742422004, tv_nsec: 135138578 }, SystemTime { tv_sec: 1742422004, tv_nsec: 136138583 }]
+Experiment took 2.475914ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 137138589 }, SystemTime { tv_sec: 1742422004, tv_nsec: 138138594 }, SystemTime { tv_sec: 1742422004, tv_nsec: 139138600 }]
+Experiment took 2.476813ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 141138611 }, SystemTime { tv_sec: 1742422004, tv_nsec: 142138616 }, SystemTime { tv_sec: 1742422004, tv_nsec: 143138622 }]
+Experiment took 2.416314ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 145138633 }, SystemTime { tv_sec: 1742422004, tv_nsec: 146138638 }, SystemTime { tv_sec: 1742422004, tv_nsec: 147138644 }, SystemTime { tv_sec: 1742422004, tv_nsec: 148138649 }]
+Experiment took 3.454719ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 149138655 }, SystemTime { tv_sec: 1742422004, tv_nsec: 150138660 }, SystemTime { tv_sec: 1742422004, tv_nsec: 151138666 }, SystemTime { tv_sec: 1742422004, tv_nsec: 152138671 }]
+Experiment took 2.473914ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 153138677 }, SystemTime { tv_sec: 1742422004, tv_nsec: 154138682 }, SystemTime { tv_sec: 1742422004, tv_nsec: 155138688 }]
+Experiment took 2.440414ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 157138699 }, SystemTime { tv_sec: 1742422004, tv_nsec: 158138704 }, SystemTime { tv_sec: 1742422004, tv_nsec: 159138710 }]
+Experiment took 2.467913ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 161138721 }, SystemTime { tv_sec: 1742422004, tv_nsec: 162138726 }, SystemTime { tv_sec: 1742422004, tv_nsec: 163138732 }, SystemTime { tv_sec: 1742422004, tv_nsec: 164138737 }]
+Experiment took 3.457519ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 167138754 }, SystemTime { tv_sec: 1742422004, tv_nsec: 168138759 }, SystemTime { tv_sec: 1742422004, tv_nsec: 169138765 }, SystemTime { tv_sec: 1742422004, tv_nsec: 170138770 }]
+Experiment took 3.58872ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 172138781 }, SystemTime { tv_sec: 1742422004, tv_nsec: 173138787 }, SystemTime { tv_sec: 1742422004, tv_nsec: 174138793 }, SystemTime { tv_sec: 1742422004, tv_nsec: 175138798 }]
+Experiment took 3.54142ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 178138815 }, SystemTime { tv_sec: 1742422004, tv_nsec: 179138820 }, SystemTime { tv_sec: 1742422004, tv_nsec: 180138826 }, SystemTime { tv_sec: 1742422004, tv_nsec: 181138831 }]
+Experiment took 3.686121ms.
+4 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 184138848 }, SystemTime { tv_sec: 1742422004, tv_nsec: 185138853 }, SystemTime { tv_sec: 1742422004, tv_nsec: 186138859 }, SystemTime { tv_sec: 1742422004, tv_nsec: 187138864 }]
+Experiment took 3.936521ms.
+3 / 100
+[SystemTime { tv_sec: 1742422004, tv_nsec: 190138881 }, SystemTime { tv_sec: 1742422004, tv_nsec: 191138886 }, SystemTime { tv_sec: 1742422004, tv_nsec: 192138892 }]
+Experiment took 2.441113ms.
+[4, 4, 4, 3, 3, 3, 3, 3, 4, 4, 3, 3, 3, 3, 3, 4, 4, 5, 4, 3, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 4, 3, 4, 4, 3, 3, 4, 4, 3, 3, 4, 4, 4, 4, 4, 3]
+false, false
