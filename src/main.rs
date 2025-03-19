@@ -3,13 +3,15 @@ use std::path::Path;
 use std::time::{Instant, SystemTime};
 
 fn main() -> Result<()> {
+    let reps = 50;
     let n = 100;
-    let reps = 10;
+
     let mut uniques = Vec::new();
     for _ in 0..reps {
         uniques.push(run_experiment(n)?);
     }
     println!("{:?}", uniques);
+    println!("{}, {}", uniques.contains(&1), uniques.contains(&n));
     Ok(())
 }
 
