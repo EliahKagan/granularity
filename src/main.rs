@@ -33,7 +33,7 @@ fn unique_times(n: u32, root: &Path) -> Result<Vec<SystemTime>> {
     }
     let mut times = Vec::new();
     for name in names {
-        times.push(root.join(name).metadata()?.modified()?);
+        times.push(root.join(name).symlink_metadata()?.modified()?);
     }
     times.sort();
     times.dedup();
