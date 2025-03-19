@@ -29,16 +29,10 @@ fn unique_times(n: u32, root: &Path) -> Result<Vec<SystemTime>> {
     for name in &names {
         std::fs::write(root.join(name), name)?;
     }
-    let mut times: Vec<_> = names
-        .iter()
-        .map(|name| {
-            root.join(&name)
-                .metadata()
-                .expect("file exists and has metadata")
-                .modified()
-                .expect("file metadata has mtime")
-        })
-        .collect();
+    let mut times = Vec::new();
+    for name in names {
+        times.push(root.join(name).metadata()?.modified()?);
+    }
     times.sort();
     times.dedup();
     Ok(times)
