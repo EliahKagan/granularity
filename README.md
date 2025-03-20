@@ -16,7 +16,18 @@ The code is in [`src/main.rs`](src/main.rs). Results are in:
 
 - [`output-ubuntu.txt`](output-ubuntu.txt) for Ubuntu 24.04 LTS (GNU/Linux)
 - [`output-windows.txt`](output-windows.txt) for Windows 10 22H2
-- [`output-macos.txt`](output-macos.txt) for macOS 15.3.2
+- no current `output-macos.txt` for macOS 15.3.2, but it is forthcoming
+
+## History and acknowledgements
+
+This was orignally made while investigating
+[GitoxideLabs/gitoxide#1896](https://github.com/GitoxideLabs/gitoxide/issues/1896).
+
+The change of including acquision and release of the temporary directory (the
+latter of which deletes the directory and the files created inside of it) in
+the per-experiment timings is motivated by the insight of
+[**@Byron**](https://github.com/Byron) expressed in
+[GitoxideLabs/gitoxide#1899 (comment)](https://github.com/GitoxideLabs/gitoxide/pull/1899#discussion_r2004613319).
 
 ## License
 
